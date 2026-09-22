@@ -1,0 +1,8 @@
+# Dataset (images, COLMAP database/sparse reconstructions)
+problem2_geometric_verification/data/
+
+# OS cruft
+.DS_Store
+
+# Python
+__pycache__/
